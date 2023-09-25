@@ -1,9 +1,7 @@
-### Hi Github Fans 👋
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I%20am%20Maynor%20Moe!;A%20web%20full%20stack%20developer&font=Roboto" />
+<h1 align="center">Hi 👋, I'm Maynor Moe</h1>
+<h3 align="center">A web full-stack developer</h3>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=maynormoe&show_icons=true">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=maynormoe&show_icons=true">
 
 
 ### language
