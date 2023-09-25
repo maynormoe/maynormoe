@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi Github Fans 👋
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I%20am%20Maynor%20Moe!;A%20web%20full%20stack%20developer&font=Roboto" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=maynormoe&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maynormoe&layout=donut">
+</div>
+
 
 ### language
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -26,4 +31,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 
 ### Development Platform
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png"></code>
+<img src="https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff" alt="Windows 11">
