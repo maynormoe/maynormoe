@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maynor Moe</h1>
 <h3 align="center">A web full-stack developer</h3>
 
-<img src="https://github-readme-stats-wine-phi-31.vercel.app/api?username=maynormoe&show_icons=true">
+<img src="https://github-readme-stats-wine-phi-31.vercel.app/api?username=maynormoe&show_icons=true&count_private=true">
 
 
 ### language
