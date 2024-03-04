@@ -3,9 +3,6 @@
 
 <img src="https://github-readme-stats-wine-phi-31.vercel.app/api?username=maynormoe&show_icons=true&count_private=true">
 
-### Now Playing on Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yth3asmesch3j2ryclrpr45b54&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31yth3asmesch3j2ryclrpr45b54&redirect=true)
-
 ### language
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
