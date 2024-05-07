@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maynor Chung</h1>
 <h3 align="center">A web full-stack developer</h3>
 
-<img src="https://github-readme-stats-wine-phi-31.vercel.app/api?username=maynormoe&show_icons=true&count_private=true">
-
 ### language
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
